@@ -5,7 +5,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: '                            Dog Threefold'
+    title: Dog Threefold
     text: ''
     elementId: ''
     styles:
