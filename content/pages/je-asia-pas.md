@@ -1,20 +1,7 @@
 ---
 type: PageLayout
 title: Info page
-sections:
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-0
-          - pr-0
-        justifyContent: center
-        borderWidth: 1
+sections: []
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
