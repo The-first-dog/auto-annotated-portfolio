@@ -4,7 +4,7 @@ title: Info page
 sections:
   - type: TextSection
     colors: colors-f
-    variant: variant-a
+    variant: variant-b
     title: Dog Threefold
     text: ''
     elementId: ''
