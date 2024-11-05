@@ -3,7 +3,7 @@ type: PageLayout
 title: Info page
 sections:
   - type: TextSection
-    colors: colors-f
+    colors: colors-e
     variant: variant-a
     title: Dog Threefold
     text: ''
