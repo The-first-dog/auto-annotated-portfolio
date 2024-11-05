@@ -3,7 +3,7 @@ type: PageLayout
 title: Info page
 sections: []
 addTitleSuffix: true
-colors: colors-a
+colors: colors-b
 backgroundImage:
   type: BackgroundImage
   backgroundSize: cover
